@@ -4,4 +4,5 @@ INSTALL:<br>
 $ clone the rep<br>
 $ cd Hping4<br>
 $ python hping4.py<br>
-                 AND SHAMBLAMMMMM!!!!
+$ 1<br>
+                 AND Skadoush you have  it installed!!!!
